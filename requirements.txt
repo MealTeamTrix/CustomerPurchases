@@ -1,1 +1,5 @@
 jupyterlab>3.0
+pandas
+numpy
+matplotlib
+scipy
